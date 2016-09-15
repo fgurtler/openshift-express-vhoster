@@ -1,0 +1,12 @@
+{
+  "name": "sample-static-site",
+  "version": "1.0.0",
+  "description": "simple static express.js website",
+  "main": "app.js",
+  "author": "Friedrich Gurtler",
+  "dependencies": {
+    "express": "^4.14.0",
+    "morgan": "^1.7.0",
+    "path": "^0.12.7"
+	}
+}
